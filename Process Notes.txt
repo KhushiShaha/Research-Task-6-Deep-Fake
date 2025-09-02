@@ -1,0 +1,21 @@
+Process Notes – Task 06: Deep Fake Interview
+
+Review of Task 5 Narrative:
+I began by revisiting the insights and summary from my SU Women’s Lacrosse data analysis project. These insights were transformed into a conversational script.
+
+Scriptwriting:
+I wrote the script in an interview format, simulating a conversation between an interviewer and myself. The script incorporates core ideas from the Task 5 summary: prompt quality, LLM reasoning limits, performance metrics, and reflections.
+
+Tool Exploration:
+I explored the following tools for generating AI media:
+- **TTS Maker** (free): Used to generate test audio clips from the script.
+- **ElevenLabs**: Offers realistic voices, limited credits on free tier.
+- **D-ID** and **HeyGen**: Considered for lip-sync video generation, but deferred due to limited access.
+
+Testing + Challenges:
+- Script had to be broken into parts due to character limits.
+- Adding pauses and tone required experimentation with punctuation.
+- Audio quality was impressive, but video export is limited on free tools.
+
+Reflection:
+This task helped me connect storytelling, scripting, and AI synthesis workflows. It showed me how narrative data analysis can evolve into digital content creation using only free, accessible tools.

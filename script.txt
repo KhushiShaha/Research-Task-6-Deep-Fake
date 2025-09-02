@@ -1,0 +1,33 @@
+Interviewer: Hi there! You recently completed some data analysis on SU Women’s Lacrosse. What was the goal of that project?
+
+You: The goal was to explore how large language models like ChatGPT can interpret and respond to natural language questions about structured sports data. I worked with Syracuse University Women’s Lacrosse statistics from the past season and tested the model's ability to answer questions ranging from “How many games were played?” to “Who was the most improved player?”
+
+---
+
+Interviewer: That sounds cool! So how did you decide what to ask the LLM?
+
+You: I started with basic descriptive stats like total goals, assists, and turnovers per player. Then I designed prompts to test whether the model could reason about performance trends, improvement over time, and even strategic decisions — like whether the team should focus more on offense or defense to win more games.
+
+---
+
+Interviewer: What did the LLM get right — and what did it get wrong?
+
+You: It handled straightforward questions well, like identifying the top scorer. But when it came to complex prompts like simulating future scenarios or identifying improvement across the season, it struggled unless I provided very clear metric definitions — like a performance index combining goals, assists, and turnovers.
+
+---
+
+Interviewer: Now for this “deep fake” interview — how did you create it?
+
+You: I used the narrative and summary from Task 5 and rewrote it as an interview script. Then, I tried using free tools like TTS Maker and ElevenLabs to generate realistic AI voices. My goal wasn’t just to generate audio, but to understand how input phrasing affects delivery and tone.
+
+---
+
+Interviewer: What was the most interesting part of this project?
+
+You: Realizing that prompt engineering is its own art form. Whether you're querying data or generating a fake voiceover, the output depends on how well you structure the input. It’s a strange but fun crossover of data analysis, storytelling, and synthetic media.
+
+---
+
+Interviewer: Last question — what would you improve if you had more time or tools?
+
+You: I’d definitely create a full video version using tools like HeyGen or D-ID. I’d also love to try multi-voice interviews with an AI “coach” asking me questions. But even just going through the process showed me how powerful and accessible AI media tools have become.
